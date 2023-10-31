@@ -1,0 +1,29 @@
+# Compilados
+*.class
+
+# Arquivos JAR e WAR
+*.jar
+*.war
+
+# Diretórios de saída
+target/
+out/
+
+# Arquivos de log
+*.log
+
+# Arquivos de configuração
+*.properties
+
+# Arquivos de cache e diretórios
+.cache/
+CACHEDIR.TAG
+
+# Arquivos de projeto (gerados por IDEs)
+.idea/
+.vscode/
+.project
+.classpath
+
+# Diretórios de saída do Eclipse
+bin/
